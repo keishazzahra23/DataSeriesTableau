@@ -2,6 +2,7 @@
 This project is an Exploratory Data Analysis (EDA) of a Superstore sales dataset, visualized using Tableau. The dashboard provides key insights into sales performance across various dimensions, including regional sales, product subcategories, order quantity distribution, profit trends, and future sales forecasting.
 
 Access the full interactive dashboard here: https://bit.ly/Book1TableuDashboard
+
 The data used in this analysis was obtained from Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Goals:
